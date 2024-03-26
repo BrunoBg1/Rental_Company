@@ -1,4 +1,3 @@
-=============================================
 # Java_Project
 =============================================
 Olá, meu nome é Bruno. Estou entusiasmado em apresentar o projeto proposto durante a aula do curso de Ciências da Computação. O desafio em Java era desenvolver um sistema para gerenciar veículos em uma locadora, com a capacidade de adicionar diferentes tipos de veículos ao estoque, calcular o preço do aluguel e exibir detalhes relevantes sobre os veículos. Além disso, o projeto enfatizou a aplicação de conceitos como construtores, modificadores, herança e polimorfismo.
